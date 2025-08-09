@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bio-punk.github.io/sitemap.xml
