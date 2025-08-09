@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://bio-punk.github.io/posts/lammps_build_nequip/</loc>
+    <lastmod>2025-08-09T23:02:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://bio-punk.github.io/posts/</loc>
     <lastmod>2025-08-09T23:02:22+08:00</lastmod>
     <changefreq>daily</changefreq>
