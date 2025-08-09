@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lammps on Cory&#39;s blog</title>
+    <link>http://localhost:1313/tags/lammps/</link>
+    <description>Recent content in Lammps on Cory&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 09 Aug 2025 23:02:22 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/lammps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lammps build with nequip</title>
+      <link>http://localhost:1313/posts/lammps_build_nequip/</link>
+      <pubDate>Sat, 09 Aug 2025 23:02:22 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/lammps_build_nequip/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
