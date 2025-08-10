@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 09 Aug 2025 23:02:22 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 09:44:15 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一例pytorch死锁排查</title>
+      <link>https://bio-punk.github.io/posts/pytorch-deadlock/</link>
+      <pubDate>Sun, 10 Aug 2025 09:44:15 +0800</pubDate>
+      
+      <guid>https://bio-punk.github.io/posts/pytorch-deadlock/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Lammps build with nequip</title>
