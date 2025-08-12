@@ -9,13 +9,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/docker_gpu_ib/</loc>
+    <loc>https://bio-punk.github.io/posts/</loc>
     <lastmod>2025-08-11T15:03:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/</loc>
+    <loc>https://bio-punk.github.io/posts/docker_gpu_ib/</loc>
     <lastmod>2025-08-11T15:03:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
