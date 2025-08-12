@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 10 Aug 2025 09:44:15 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 15:03:39 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker_gpu_ib</title>
+      <link>https://bio-punk.github.io/posts/docker_gpu_ib/</link>
+      <pubDate>Mon, 11 Aug 2025 15:03:39 +0800</pubDate>
+      
+      <guid>https://bio-punk.github.io/posts/docker_gpu_ib/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>一例pytorch死锁排查</title>
