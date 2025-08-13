@@ -6,14 +6,16 @@
     <description>Recent content in Windows on Cory&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
+    <webMaster>biocory42@gmail.com (Cory)</webMaster>
+    <copyright>© 2025 Cory</copyright>
     <lastBuildDate>Wed, 13 Aug 2025 23:00:25 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>一例Python发起HTTPS请求出现SSL报错</title>
       <link>https://bio-punk.github.io/posts/windows-ssl-error/</link>
       <pubDate>Wed, 13 Aug 2025 23:00:25 +0800</pubDate>
-      
+      <author>biocory42@gmail.com (Cory)</author>
       <guid>https://bio-punk.github.io/posts/windows-ssl-error/</guid>
       <description></description>
       
