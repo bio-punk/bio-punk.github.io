@@ -9,7 +9,27 @@
     <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
     <webMaster>biocory42@gmail.com (Cory)</webMaster>
     <copyright>© 2025 Cory</copyright>
-    <lastBuildDate>Wed, 13 Aug 2025 23:00:25 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 21:43:50 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Build</title>
+      <link>https://bio-punk.github.io/tags/build/</link>
+      <pubDate>Wed, 20 Aug 2025 21:43:50 +0800</pubDate>
+      <author>biocory42@gmail.com (Cory)</author>
+      <guid>https://bio-punk.github.io/tags/build/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lammps</title>
+      <link>https://bio-punk.github.io/tags/lammps/</link>
+      <pubDate>Wed, 20 Aug 2025 21:43:50 +0800</pubDate>
+      <author>biocory42@gmail.com (Cory)</author>
+      <guid>https://bio-punk.github.io/tags/lammps/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ops</title>
@@ -27,16 +47,6 @@
       <pubDate>Wed, 13 Aug 2025 23:00:25 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
       <guid>https://bio-punk.github.io/tags/windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Build</title>
-      <link>https://bio-punk.github.io/tags/build/</link>
-      <pubDate>Mon, 11 Aug 2025 15:03:39 +0800</pubDate>
-      <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/tags/build/</guid>
       <description></description>
       
     </item>
@@ -67,16 +77,6 @@
       <pubDate>Sun, 10 Aug 2025 09:44:15 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
       <guid>https://bio-punk.github.io/tags/torch/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lammps</title>
-      <link>https://bio-punk.github.io/tags/lammps/</link>
-      <pubDate>Sat, 09 Aug 2025 23:02:22 +0800</pubDate>
-      <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/tags/lammps/</guid>
       <description></description>
       
     </item>
