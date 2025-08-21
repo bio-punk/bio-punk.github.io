@@ -9,7 +9,17 @@
     <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
     <webMaster>biocory42@gmail.com (Cory)</webMaster>
     <copyright>© 2025 Cory</copyright>
-    <lastBuildDate>Wed, 20 Aug 2025 21:43:50 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Aug 2025 21:07:39 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/build/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>B200 Vllm</title>
+      <link>https://bio-punk.github.io/posts/b200-vllm/</link>
+      <pubDate>Thu, 21 Aug 2025 21:07:39 +0800</pubDate>
+      <author>biocory42@gmail.com (Cory)</author>
+      <guid>https://bio-punk.github.io/posts/b200-vllm/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bio-punk.github.io/posts/b200-vllm/featureDSC03021.jpg" />
+    </item>
     
     <item>
       <title>Lammps_with_mace</title>
