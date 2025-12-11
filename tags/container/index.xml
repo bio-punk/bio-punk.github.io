@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Container on Cory&#39;s blog</title>
-    <link>https://bio-punk.github.io/tags/container/</link>
+    <link>http://localhost:1313/tags/container/</link>
     <description>Recent content in Container on Cory&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
     <webMaster>biocory42@gmail.com (Cory)</webMaster>
     <copyright>© 2025 Cory</copyright>
-    <lastBuildDate>Mon, 11 Aug 2025 15:03:39 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 15:03:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/container/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>带IB和GPU的docker安装</title>
-      <link>https://bio-punk.github.io/posts/docker_gpu_ib/</link>
+      <link>http://localhost:1313/posts/docker_gpu_ib/</link>
       <pubDate>Mon, 11 Aug 2025 15:03:39 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/docker_gpu_ib/</guid>
+      <guid>http://localhost:1313/posts/docker_gpu_ib/</guid>
       <description></description>
       
     </item>

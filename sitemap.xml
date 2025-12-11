@@ -3,49 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://bio-punk.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-11T16:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/lammps_pair_nequip_allegro_blackwell/</loc>
     <lastmod>2025-12-11T16:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/b200-vllm/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-11T16:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/b200-vllm/</loc>
     <lastmod>2025-08-21T21:07:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/lammps_with_mace/</loc>
+    <loc>http://localhost:1313/posts/lammps_with_mace/</loc>
     <lastmod>2025-08-20T21:43:50+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/windows-ssl-error/</loc>
+    <loc>http://localhost:1313/posts/windows-ssl-error/</loc>
     <lastmod>2025-08-13T23:00:25+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/docker_gpu_ib/</loc>
+    <loc>http://localhost:1313/posts/docker_gpu_ib/</loc>
     <lastmod>2025-08-11T15:03:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/pytorch-deadlock/</loc>
+    <loc>http://localhost:1313/posts/pytorch-deadlock/</loc>
     <lastmod>2025-08-10T09:44:15+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bio-punk.github.io/posts/lammps_build_nequip/</loc>
+    <loc>http://localhost:1313/posts/lammps_build_nequip/</loc>
     <lastmod>2025-08-09T23:02:22+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

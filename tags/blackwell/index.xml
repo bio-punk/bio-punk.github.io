@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>X86 on Cory&#39;s blog</title>
-    <link>http://localhost:1313/tags/x86/</link>
-    <description>Recent content in X86 on Cory&#39;s blog</description>
+    <title>Blackwell on Cory&#39;s blog</title>
+    <link>http://localhost:1313/tags/blackwell/</link>
+    <description>Recent content in Blackwell on Cory&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
     <webMaster>biocory42@gmail.com (Cory)</webMaster>
     <copyright>© 2025 Cory</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 16:05:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 16:05:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/blackwell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lammps with pair_nequip_allegro in blackwell</title>
@@ -17,16 +17,6 @@
       <pubDate>Thu, 11 Dec 2025 16:05:45 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
       <guid>http://localhost:1313/posts/lammps_pair_nequip_allegro_blackwell/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lammps build with nequip</title>
-      <link>http://localhost:1313/posts/lammps_build_nequip/</link>
-      <pubDate>Sat, 09 Aug 2025 23:02:22 +0800</pubDate>
-      <author>biocory42@gmail.com (Cory)</author>
-      <guid>http://localhost:1313/posts/lammps_build_nequip/</guid>
       <description></description>
       
     </item>

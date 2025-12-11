@@ -2,71 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cory&#39;s blog</title>
-    <link>https://bio-punk.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Cory&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>biocory42@gmail.com (Cory)</managingEditor>
     <webMaster>biocory42@gmail.com (Cory)</webMaster>
     <copyright>© 2025 Cory</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 16:05:45 +0800</lastBuildDate><atom:link href="https://bio-punk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 16:05:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lammps with pair_nequip_allegro in blackwell</title>
+      <link>http://localhost:1313/posts/lammps_pair_nequip_allegro_blackwell/</link>
+      <pubDate>Thu, 11 Dec 2025 16:05:45 +0800</pubDate>
+      <author>biocory42@gmail.com (Cory)</author>
+      <guid>http://localhost:1313/posts/lammps_pair_nequip_allegro_blackwell/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>B200 Vllm</title>
-      <link>https://bio-punk.github.io/posts/b200-vllm/</link>
+      <link>http://localhost:1313/posts/b200-vllm/</link>
       <pubDate>Thu, 21 Aug 2025 21:07:39 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/b200-vllm/</guid>
+      <guid>http://localhost:1313/posts/b200-vllm/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bio-punk.github.io/posts/b200-vllm/featureDSC03021.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/b200-vllm/featureDSC03021.jpg" />
     </item>
     
     <item>
       <title>Lammps_with_mace</title>
-      <link>https://bio-punk.github.io/posts/lammps_with_mace/</link>
+      <link>http://localhost:1313/posts/lammps_with_mace/</link>
       <pubDate>Wed, 20 Aug 2025 21:43:50 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/lammps_with_mace/</guid>
+      <guid>http://localhost:1313/posts/lammps_with_mace/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>一例Python发起HTTPS请求出现SSL报错</title>
-      <link>https://bio-punk.github.io/posts/windows-ssl-error/</link>
+      <link>http://localhost:1313/posts/windows-ssl-error/</link>
       <pubDate>Wed, 13 Aug 2025 23:00:25 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/windows-ssl-error/</guid>
+      <guid>http://localhost:1313/posts/windows-ssl-error/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>带IB和GPU的docker安装</title>
-      <link>https://bio-punk.github.io/posts/docker_gpu_ib/</link>
+      <link>http://localhost:1313/posts/docker_gpu_ib/</link>
       <pubDate>Mon, 11 Aug 2025 15:03:39 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/docker_gpu_ib/</guid>
+      <guid>http://localhost:1313/posts/docker_gpu_ib/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>一例pytorch死锁排查</title>
-      <link>https://bio-punk.github.io/posts/pytorch-deadlock/</link>
+      <link>http://localhost:1313/posts/pytorch-deadlock/</link>
       <pubDate>Sun, 10 Aug 2025 09:44:15 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/pytorch-deadlock/</guid>
+      <guid>http://localhost:1313/posts/pytorch-deadlock/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lammps build with nequip</title>
-      <link>https://bio-punk.github.io/posts/lammps_build_nequip/</link>
+      <link>http://localhost:1313/posts/lammps_build_nequip/</link>
       <pubDate>Sat, 09 Aug 2025 23:02:22 +0800</pubDate>
       <author>biocory42@gmail.com (Cory)</author>
-      <guid>https://bio-punk.github.io/posts/lammps_build_nequip/</guid>
+      <guid>http://localhost:1313/posts/lammps_build_nequip/</guid>
       <description></description>
       
     </item>
